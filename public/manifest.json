@@ -1,0 +1,19 @@
+{
+  "name": "LED Scrolling Sign",
+  "short_name": "LED Sign",
+  "description": "Create beautiful scrolling LED signs with custom text and colors",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#667eea",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
